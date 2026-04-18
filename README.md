@@ -9,9 +9,9 @@
 | Dataset ID | `923664` |
 | Location | Oceanside |
 | Category | Restaurants |
-| Full dataset size | 379 records |
-| Free sample size | 34 records (8.97%) |
-| Last export | 2026-04-07T11:58:10.084352+00:00 |
+| Full dataset size | 349 records |
+| Free sample size | 34 records (9.74%) |
+| Last export | 2026-04-14T11:52:46.499350+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-oceanside-california-us-sample-923664/releases/download/sample-latest/beamstation_923664_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
