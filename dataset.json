@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Complete dataset of all active restaurant listings in Oceanside, California with a population of over 174k. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Oceanside, California, US",
-  "export_job_id": "480e5bc6-8f6f-45a7-8556-d089bed0743b",
+  "export_job_id": "82c2b3e2-7739-44eb-9d2f-9a3a331a7e79",
   "github_org": "Beamstation-Datasets",
   "id_short": 923664,
   "location_name": "Oceanside",
   "location_type": "city",
   "repo_name": "all-restaurants-in-oceanside-california-us-sample-923664",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/923664/beamstation_923664_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_pct": 8.97,
+  "sample_pct": 9.74,
   "sample_records": 34,
   "sample_sha256": "f53edf18409954aa22f43ad1c1e3f813a9a9e9b22bb812b344e0f1a86d13ab8b",
   "sample_size_bytes": 106720,
-  "total_records": 379,
-  "updated_at": "2026-04-07T11:58:10.084352+00:00"
+  "total_records": 349,
+  "updated_at": "2026-04-14T11:52:46.499350+00:00"
 }
