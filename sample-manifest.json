@@ -1,12 +1,12 @@
 {
-  "export_job_id": "eb8774fb-33a4-42b7-9ff4-7f9e4b7b9898",
+  "export_job_id": "28835441-dd43-43c4-880d-60396665b168",
   "id_short": 923664,
-  "published_at": "2026-04-28T19:35:48Z",
+  "published_at": "2026-05-06T07:10:08Z",
   "repo_name": "all-restaurants-in-oceanside-california-us-sample-923664",
   "sample_asset_name": "beamstation_923664_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/923664/beamstation_923664_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 38,
-  "sample_sha256": "6dede60dd62c0662013410ed4cb8a428bd55b87855c66cf2606a8c323b63a162",
-  "sample_size_bytes": 154649,
-  "total_records": 382
+  "sample_records": 40,
+  "sample_sha256": "f7f940224d9ca3b4fbeb6cb5b2919867851e74d756d6105a135d61c128cbdfa5",
+  "sample_size_bytes": 158782,
+  "total_records": 402
 }
